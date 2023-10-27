@@ -1,0 +1,13 @@
+name = "Server Hats"
+filename = "server-hats-0.15.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1VRzrrw9/versions/tHA4zFgW/server-hats-0.15.jar"
+hash-format = "sha1"
+hash = "f0aa776b8ef2dcb15896983295fe3487a4037d03"
+
+[update]
+[update.modrinth]
+mod-id = "1VRzrrw9"
+version = "tHA4zFgW"

@@ -1,0 +1,18 @@
+name = "Bridging Mod"
+filename = "BridgingMod-1.19.4-v2.1.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/lO3s8hjs/versions/BadP0e5q/BridgingMod-1.19.4-v2.1.0.jar"
+hash-format = "sha1"
+hash = "e7b3aedfeb905f50a1d3d30f0b732cd8f01bb43f"
+
+[update]
+[update.modrinth]
+mod-id = "lO3s8hjs"
+version = "BadP0e5q"
+
+[option]
+optional = true
+default = true
+description = "Allows you to \"reach around\" to place blocks around corners, kinda like in bedrock edition!"

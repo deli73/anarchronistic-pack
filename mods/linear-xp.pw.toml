@@ -1,0 +1,13 @@
+name = "Linear XP"
+filename = "linearxp-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "17b2037b7c455ee0d9cd99b36968209d8978a35c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3537895
+project-id = 524925

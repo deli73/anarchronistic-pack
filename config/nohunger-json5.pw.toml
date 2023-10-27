@@ -1,0 +1,7 @@
+name = "nohunger.json5"
+filename = "nohunger.json5"
+
+[download]
+url = "https://sunrose.xyz/files/anarchronistic/direct/nohunger.json5"
+hash-format = "sha1"
+hash = "015f725b53335da64263a51070bf7f71c6bc101f"

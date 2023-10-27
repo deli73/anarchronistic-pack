@@ -1,0 +1,7 @@
+name = "Anarchronism"
+filename = "anarchronism-0.7.1.jar"
+
+[download]
+url = "https://sunrose.xyz/files/anarchronistic/direct/anarchronism-0.7.1.jar"
+hash-format = "sha1"
+hash = "b9adff8e7350beb50797c41917b7a384f8878555"

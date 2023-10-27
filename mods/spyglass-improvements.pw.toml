@@ -1,0 +1,18 @@
+name = "Spyglass Improvements"
+filename = "spyglass-improvements-1.4+mc1.19.4+fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Z6ykjRlM/versions/FEmKO6K3/spyglass-improvements-1.4%2Bmc1.19.4%2Bfabric.jar"
+hash-format = "sha1"
+hash = "57b97b969cea8159711d821540f41bffc4d20943"
+
+[update]
+[update.modrinth]
+mod-id = "Z6ykjRlM"
+version = "FEmKO6K3"
+
+[option]
+optional = true
+default = false
+description = "Lets you zoom more granularly with spyglasses, as well as press Z to zoom without holding one!"

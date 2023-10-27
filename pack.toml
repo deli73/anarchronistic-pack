@@ -1,0 +1,16 @@
+name = "Anarchronistic"
+author = "Sunroses"
+version = "1.5.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "7ed7b134781aa0e84efba36f8b5eada31d74457efc39cc260ebfe2702f55d8fb"
+
+[versions]
+fabric = "0.14.22"
+minecraft = "1.19.4"
+
+[options]
+acceptable-game-versions = "1.19.3"

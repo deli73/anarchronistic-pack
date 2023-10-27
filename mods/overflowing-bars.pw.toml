@@ -1,0 +1,18 @@
+name = "Overflowing Bars"
+filename = "OverflowingBars-v6.0.0-1.19.4-Fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/XD7XOrAF/versions/Bd82N1Gy/OverflowingBars-v6.0.0-1.19.4-Fabric.jar"
+hash-format = "sha1"
+hash = "75f25f9a817bf828bd4311698b8b642840d311b7"
+
+[update]
+[update.modrinth]
+mod-id = "XD7XOrAF"
+version = "Bd82N1Gy"
+
+[option]
+optional = true
+default = true
+description = "Unclutters the rendering of health and armor bars. Might make it slightly harder to see what your max health is."

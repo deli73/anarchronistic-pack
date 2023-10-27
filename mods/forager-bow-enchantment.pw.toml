@@ -1,0 +1,13 @@
+name = "Forager Bow Enchantment"
+filename = "forager-bow-ench-1.1.0+1.19.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7c729a933feee8ffdd0b2f62ae0959f05a44858a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4554913
+project-id = 866643

@@ -1,0 +1,13 @@
+name = "antibat"
+filename = "antibat-fabric-1.19.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/YiOOnSQe/versions/JtFMvyGW/antibat-fabric-1.19.2.jar"
+hash-format = "sha1"
+hash = "cb29da15d34bad708c65f628547c321a0ccecbd8"
+
+[update]
+[update.modrinth]
+mod-id = "YiOOnSQe"
+version = "JtFMvyGW"

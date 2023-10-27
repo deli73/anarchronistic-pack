@@ -1,0 +1,13 @@
+name = "Switchy"
+filename = "switchy-2.8.3+1.19.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ss0QuCRx/versions/RXux54xM/switchy-2.8.3%2B1.19.4.jar"
+hash-format = "sha1"
+hash = "3ce6b89e859f0fd99d8829f206a644dc89b0e11c"
+
+[update]
+[update.modrinth]
+mod-id = "ss0QuCRx"
+version = "RXux54xM"
