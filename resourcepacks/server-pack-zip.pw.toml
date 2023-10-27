@@ -2,6 +2,6 @@ name = "Server Pack.zip"
 filename = "Server Pack.zip"
 
 [download]
-url = "https://sunrose.xyz/files/anarchronistic/direct/Server%20Pack.zip"
+url = "https://sunrose.xyz/files/anarch_direct/Server%20Pack.zip"
 hash-format = "sha1"
 hash = "389c394694ca0050ab4e296ad7b149ba92308445"

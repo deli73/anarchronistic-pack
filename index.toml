@@ -12,7 +12,7 @@ metafile = true
 
 [[files]]
 file = "mods/anarchronism.pw.toml"
-hash = "974c5f188ae647bd89af9dddee03ccb564baeaf3fa33b86bfd8a1ef933b40068"
+hash = "3b9a499f2a3afd5648fcb7377d2b6c5cfdc9505c9f042f444ee56748ab81ee9f"
 metafile = true
 
 [[files]]
@@ -497,10 +497,10 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/server-pack-zip.pw.toml"
-hash = "008e5da4879246ce0756dacbd21c8b3c5259436eaed6a0c7f4ac368fd62aca09"
+hash = "ec0df3ecfc69cc6801efd92a09988657e05e92c8bf4ffb864d7dfa9226617c50"
 metafile = true
 
 [[files]]
 file = "resourcepacks/visualenchantments-zip.pw.toml"
-hash = "4a3874278de7f3e0594a8cd0ad88f94a983de8951e17a76c3df8b982279b6cb8"
+hash = "031ab2b7a83fa23327c8d666cf91d758621cee92625a05cd312feea72d87d959"
 metafile = true
