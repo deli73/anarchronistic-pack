@@ -1,12 +1,12 @@
 name = "Anarchronistic"
 author = "Sunroses"
-version = "1.5.0"
+version = "1.5.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "a483c2aa4b62bdcf46f07754a4323358820ae73001a631fe6ad1556845d3a2c3"
+hash = "26776fe7fdba0eefefda415f60bf44a46e0f2d9d4016dbb395219b64a3089bce"
 
 [versions]
 fabric = "0.14.22"
