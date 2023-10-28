@@ -442,7 +442,7 @@ metafile = true
 
 [[files]]
 file = "mods/travelersbackpack.pw.toml"
-hash = "e1edf4665b96349adb230ae32f6b01d995a0addc80df78ec2259526d2e753864"
+hash = "055fa67d8575c3abcb7b0606005abd10f94ff66f35f735d5379ace7f89ea821a"
 metafile = true
 
 [[files]]
