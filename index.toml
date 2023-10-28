@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/nohunger-json5.pw.toml"
-hash = "535b0e20822b70dc1902eac65f9798ac628af34274db02a5febea336c481b94b"
+hash = "abe3aa0dd9752b08edaaeda82649dba9e18fb466a46139f8240c663fc43a1a91"
 metafile = true
 
 [[files]]
@@ -442,7 +442,7 @@ metafile = true
 
 [[files]]
 file = "mods/travelersbackpack.pw.toml"
-hash = "055fa67d8575c3abcb7b0606005abd10f94ff66f35f735d5379ace7f89ea821a"
+hash = "e1edf4665b96349adb230ae32f6b01d995a0addc80df78ec2259526d2e753864"
 metafile = true
 
 [[files]]
