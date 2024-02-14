@@ -1,7 +1,7 @@
 name = "anarchronism"
-filename = "anarchronism-0.8.0.jar"
+filename = "anarchronism-0.8.1.jar"
 
 [download]
-url = "https://server1.lavenderhearts.gay/files/anarchronism-0.8.0.jar"
+url = "https://server1.lavenderhearts.gay/files/anarchronism-0.8.1.jar"
 hash-format = "sha256"
-hash = "73a5a718e659c18e149c36f1ec6e7b741c860756bb4f27bdf962343c7bf87dcc"
+hash = "df017054382a74408433aebe4b4f336e3155ae70251a4e9f7027de73aa7b5e6e"

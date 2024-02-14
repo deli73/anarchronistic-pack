@@ -12,7 +12,7 @@ metafile = true
 
 [[files]]
 file = "mods/anarchronism.pw.toml"
-hash = "ef065743bf1479693ffeb43e70af5f6ad67a5246c606bf6eefb5d03367ac3bf3"
+hash = "5724a0b7e4b64f8158d4474b23f72ebb109de9ddf68eae47fa19e3e07203a175"
 metafile = true
 
 [[files]]
@@ -93,6 +93,11 @@ metafile = true
 [[files]]
 file = "mods/dripsounds-fabric.pw.toml"
 hash = "b339a7fac0de8816f2543b8585671c92733873f74a978e0c4e9e3083d4dd4d06"
+metafile = true
+
+[[files]]
+file = "mods/dynmap.pw.toml"
+hash = "efd10038e44adea0320911043824f7e9e55bd27bb1c2de11c8a2629285656d84"
 metafile = true
 
 [[files]]
@@ -382,7 +387,12 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "22c6c92e1d7b9eff18f738836d15f0d75fba72a02c7418b4069f0a0b51e29bf4"
+hash = "11368f4cdf65c26ed08d7c24908b323817f19961255c58a9a87fc5b68c15ad50"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "4df01b2c1d5c78275f4653c2ad268196697450db9cdc5ee5df0180e62626fa6f"
 metafile = true
 
 [[files]]

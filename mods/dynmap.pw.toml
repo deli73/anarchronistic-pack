@@ -1,0 +1,8 @@
+name = "dynmap"
+filename = "Dynmap-3.7-beta-4-fabric-1.19.4.jar"
+side = "server"
+
+[download]
+url = "https://server1.lavenderhearts.gay/files/Dynmap-3.7-beta-4-fabric-1.19.4.jar"
+hash-format = "sha256"
+hash = "d785b7ab82715c3ac3f86af7041bb5190a838eb085f724a6dc0b8b2f41efb5a0"
